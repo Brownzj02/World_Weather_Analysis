@@ -1,1 +1,3 @@
-# World_Weather_Analysis
+# World Weather Analysis
+
+The purpose of this analysis is to utilize API sources and JSON to create weather maps and itinerary. With the gmaps and Google, in this challenge I primarily focused on pulling weather and hotel information. Utilizing the 75 degree minimum and 90 degree temperature maximum, I was able to pull 214 mapped locations in the vacation_search file. Within this search I created an itinerary starting and ending in Jasper, MO with stops in Lebanon, TN, Wilmington, NC, and Avera, GA. Temperatures and hotel names were provided in this search for planning. I focused on US domestic travel when challege criteria was based on driving, bicycling, or walking. It would be impossible to cross from Key West to Baragua Cuba for example if transportation options are not expanded, as the ocean seperates these cities between two counties.
